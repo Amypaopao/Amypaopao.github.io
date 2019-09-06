@@ -2,7 +2,7 @@
 title: AmyPaopao
 subtitle: 再努力一点点 希望就在眼前～
 welcome_message: <a href="https://Amypaopao.github.io" target="_blank"> Coding & 摄影 & 健身 </a>
-description: 我是胡晓萍 (AmyPaopao) 就职杭州孚嘉科技.
+description: 我是胡晓萍 (AmyPaopao) 就职于上海外汇交易中心.
 # creator: <a href="https://Amypaopao.github.io">@onevcat</a>
 
 # url: "https://Amypaopao.github.io"
@@ -17,32 +17,32 @@ cover_color: slate
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客
-    description: 访问博客
+  title: 博客
+  description: 访问博客
 
 # Navigation buttons in the front page.
 nav:
-    - {title: 简历, description: 我的简历, url: 'https://Amypaopao.github.io'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
+  - { title: 简历, description: 我的简历, url: 'https://Amypaopao.github.io' }
+  # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
 gems: [jekyll-paginate]
 paginate: 10
-paginate_path: "page/:num/"
+paginate_path: 'page/:num/'
 
 # Comment
 # comment:
 #     disqus: vno-jekyll
-    # duoshuo: 
-    
+# duoshuo:
+
 # Social
 social:
-    github: Amypaopao
-    mail: amy_pao_pao@163.com
+  github: Amypaopao
+  mail: amy_pao_pao@163.com
 
 # Google Analytics
 # ga:
-    # id: your_ga_id
-    # host: your_host
+# id: your_ga_id
+# host: your_host
 
 theme: jekyll-theme-slate
